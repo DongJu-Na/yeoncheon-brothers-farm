@@ -30,7 +30,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-amber-800 mt-8 pt-8 text-center">
-          <p>© {new Date().getFullYear()} 흙염소 진액. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} 형제농장. All rights reserved.</p>
         </div>
       </div>
     </footer>
